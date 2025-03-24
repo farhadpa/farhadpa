@@ -20,6 +20,5 @@ Recent MSc Software Development graduate with a distinction, transitioning from 
 ### Projects    
 - [Stacksofwax](https://github.com/farhadpa/stacksofwax)
 - [Data analytics report generation automation](https://github.com/farhadpa/data_analytics_report_automation)
-- [Student Engagement Monitoring, Microsevices]
-- [Database design]
-- [Software Engineering, text-based game in Java]
+- [Student Engagement Monitoring, Microsevices](https://github.com/farhadpa/cloud_computing_project)
+- [Software Engineering, text-based game in Java](https://github.com/farhadpa/saveourplanet)
